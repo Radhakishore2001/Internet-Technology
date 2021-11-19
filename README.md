@@ -1,6 +1,8 @@
 # Internet-Technology
 Live Server Link :
 https://result-managment-portal.firebaseapp.com/
+Admin Link :
+https://result-management-admin-69848.firebaseapp.com/
 
 Hosting : Firebase and Heroku
 
